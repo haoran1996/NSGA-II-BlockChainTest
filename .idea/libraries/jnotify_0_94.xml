@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jnotify-0.94">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jnotify-0.94.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

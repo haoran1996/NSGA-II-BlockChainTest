@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-math3-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rsyntaxtextarea.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JMetal-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
