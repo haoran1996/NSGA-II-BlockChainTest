@@ -1,1 +1,1 @@
-基于NSGA-II实现，初始版
+基于MOEA框架实现，https://github.com/MOEAFramework/MOEAFramework
